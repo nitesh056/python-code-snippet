@@ -1,0 +1,3 @@
+This mode overwrites the file content.
+Use append.
+This function appends the file content.
